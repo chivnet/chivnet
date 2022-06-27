@@ -1,5 +1,8 @@
 ### Hi there this is ChivNet 👋
 
+![photo](https://user-images.githubusercontent.com/32972328/175882807-a137e81e-dee1-4d5b-9448-23f65be6494a.png)
+
+
 <!--
 **chivnet/chivnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
